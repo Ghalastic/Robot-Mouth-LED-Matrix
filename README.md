@@ -14,10 +14,10 @@ Wokwi
 ####
 ## Steps Taken:-
 #### 
-1- Go to the [Online LED Matrix Binary Code Pattern Generator](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
-2- Adjust the number of coloumn and rows to be 32x32, then draw the desired mouth by clicking on the zeros and copy the resulting binary code for that drawing
-3- Go to Wokwi and scroll down to the "Featured Simulation Projects"
-4- Click on the "32x32 LED Matrix Tunnel" project and write the code which includes the just copied binary code.
+1- Go to the [Online LED Matrix Binary Code Pattern Generator](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)  
+2- Adjust the number of coloumn and rows to be 32x32, then draw the desired mouth by clicking on the zeros and copy the resulting binary code for that drawing  
+3- Go to Wokwi and scroll down to the "Featured Simulation Projects"  
+4- Click on the "32x32 LED Matrix Tunnel" project and write the code which includes the just copied binary code   
 #### 
 ### Link:
 [LED Matrix For the Robot's Mouth](https://wokwi.com/projects/403738160008444929)
