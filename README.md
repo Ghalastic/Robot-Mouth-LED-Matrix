@@ -15,7 +15,7 @@ Wokwi
 ## Steps Taken:-
 #### 
 - Go to the [Online LED Matrix Binary Code Pattern Generator](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)  
-- Adjust the number of coloumn and rows to be 32 each, then draw the desired mouth shape for the robot by clicking on the zeros and copy the resulting binary code for that drawing  
+- Adjust the number of coloumn and rows to be 32 each, then draw the desired mouth shapes for the robot's moving mouth motion by clicking on the zeros and copy the resulting binary code for each drawing  
 - Go to Wokwi and scroll down to the "Featured Simulation Projects"  
 - Click on the "32x32 LED Matrix Tunnel" project and write the code which includes the just copied binary code   
 #### 
