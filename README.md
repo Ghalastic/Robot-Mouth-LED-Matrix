@@ -1,8 +1,8 @@
-# Robot Mouth On a LED Matrix
+# Robot Mouth Moving Motion On a LED Matrix
 #### 
 ## Task Description:-
 #### 
-Design The Robot's Mouth Using LED Matrix
+Design The Robot's Moving Mouth Using LED Matrix
 #### 
 ### Program:
 #### 
