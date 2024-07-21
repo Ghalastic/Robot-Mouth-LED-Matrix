@@ -24,7 +24,9 @@ Wokwi
 #### 
 ### Illustration:
 #### 
-![‏‏لقطة الشاشة (2091)](https://github.com/user-attachments/assets/aae78838-b638-4743-b145-54ee56f4e4c3)
+![‏‏لقطة الشاشة (2096)](https://github.com/user-attachments/assets/825981d3-573f-4b7b-9c18-916b291c977e)
+#### 
+![‏‏لقطة الشاشة (2093)](https://github.com/user-attachments/assets/67b9ee93-d604-4d7a-89ab-5c5dabc07061)
 #### 
 
 
